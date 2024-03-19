@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "916ce615dbb86428",
+    "type": "split",
+    "children": [
+      {
+        "id": "28dd9ab21f25e7d7",
+        "type": "split",
+        "children": [
+          {
+            "id": "1b2557bc531bb9e9",
+            "type": "tabs",
+            "dimension": 75,
+            "children": [
+              {
+                "id": "b37e07c62c5145d0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "e1110/func/e1110_fn8.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "5c3128e95716cf80"
+              }
+            ]
+          },
+          {
+            "id": "7c6cc275e6ed3571",
+            "type": "tabs",
+            "dimension": 25,
+            "children": [
+              {
+                "id": "a1e19bb310ba9a46",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "e1110/func/e1110_fn8.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7132754626224425,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "5c3128e95716cf80"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce506f37d14bd2b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b19f88b8fc1c9db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "565ef51cac35019c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f6cb99214a1fbad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TreasureChest  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9a75838393f9b40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c879a4635c7c216",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3ad8fe050414ffb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cf8bccc27d60387",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "e1110/func/e1110_fn8.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "098ad4f3697b3493",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "e1110/func/e1110_fn8.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1246b4db7d96ef07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c32495871b5fea43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "e1110/func/e1110_fn8.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b37e07c62c5145d0",
+  "lastOpenFiles": [
+    "e1110/func/e1110_fn2.md",
+    "e1110/func/e1110_fn3.md",
+    "e1110/func/e1110_fn4.md",
+    "e1110/func/e1110_fn5.md",
+    "e1110/func/e1110_fn6.md",
+    "e1110/func/e1110_fn7.md",
+    "e1110/func/e1110_fn8.md",
+    "flags/flag_9696.md",
+    "flags/flag_9723.md",
+    "flags/flag_9722.md",
+    "flags/flag_9721.md",
+    "flags/flag_9720.md",
+    "names/name_8.md",
+    "scenas.md",
+    "names",
+    "e1110/e1110.md",
+    "e1110/npc",
+    "Untitled.canvas",
+    "e1110/func",
+    "e1110/func.md",
+    "e1110.md",
+    "e1110/flags.md",
+    "flags",
+    "e1110",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
