@@ -1,0 +1,19 @@
+---
+tags:
+---
+Flag:
+- [[flag_9988]]
+- [[flag_9999]]
+- [[flag_10017]]
+- [[flag_9606]]
+Sound:
+- [[sound_459]]
+Entrance:
+- [[u4100_entrance9]]
+- [[u4100_entrance10]]
+System:
+- [[system_66]]
+Look_point:
+- [[u4100_look_point15]]
+Fn:
+- [[u4100_function10]]

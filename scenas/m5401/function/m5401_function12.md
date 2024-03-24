@@ -1,0 +1,30 @@
+---
+tags:
+  - Quest
+---
+Quest:
+- [[quest_8]]
+- [[quest_14]]
+- [[quest_28]]
+- [[quest_31]]
+- [[quest_10]]
+- [[quest_1]]
+- [[quest_20]]
+- [[quest_16]]
+- [[quest_6]]
+- [[quest_33]]
+- [[quest_22]]
+- [[quest_13]]
+- [[quest_12]]
+- [[quest_23]]
+- [[quest_21]]
+- [[quest_5]]
+- [[quest_15]]
+- [[quest_9]]
+- [[quest_3]]
+- [[quest_19]]
+- [[quest_11]]
+- [[quest_25]]
+- [[quest_36]]
+- [[quest_7]]
+- [[quest_4]]

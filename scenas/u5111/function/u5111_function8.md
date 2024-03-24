@@ -1,0 +1,15 @@
+---
+tags:
+---
+System:
+- [[system_4]]
+Flag:
+- [[flag_10504]]
+- [[flag_0]]
+Field_party:
+- [[field_party_0]]
+Sound:
+- [[sound_116]]
+- [[sound_39]]
+Fn:
+- [[u5111_function9]]

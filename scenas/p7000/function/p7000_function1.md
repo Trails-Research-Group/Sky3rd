@@ -1,0 +1,16 @@
+---
+tags:
+---
+Flag:
+- [[flag_9602]]
+- [[flag_11054]]
+- [[flag_11279]]
+System:
+- [[system_1]]
+- [[system_4]]
+Look_point:
+- [[p7000_look_point0]]
+- [[p7000_look_point1]]
+Fn:
+- [[p7000_function19]]
+- [[p7000_function2]]

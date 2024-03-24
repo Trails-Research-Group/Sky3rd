@@ -1,0 +1,23 @@
+---
+tags:
+---
+Battle:
+- [[battle_2713]]
+- [[battle_2714]]
+- [[battle_2715]]
+- [[battle_2718]]
+- [[battle_2701]]
+- [[battle_2717]]
+- [[battle_2702]]
+- [[battle_2703]]
+- [[battle_2708]]
+- [[battle_2711]]
+- [[battle_2707]]
+- [[battle_2709]]
+- [[battle_2705]]
+- [[battle_2706]]
+- [[battle_2712]]
+- [[battle_2704]]
+- [[battle_2710]]
+- [[battle_2700]]
+- [[battle_2716]]

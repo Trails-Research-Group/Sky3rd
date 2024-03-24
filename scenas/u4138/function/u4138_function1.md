@@ -1,0 +1,10 @@
+---
+tags:
+---
+Flag:
+- [[flag_9991]]
+- [[flag_10174]]
+- [[flag_10017]]
+- [[flag_10175]]
+Look_point:
+- [[u4138_look_point0]]
