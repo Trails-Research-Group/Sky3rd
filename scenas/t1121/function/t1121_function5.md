@@ -1,16 +1,16 @@
 ---
 tags:
-  - NewScene
   - FlagSet
-  - Quest
   - Item
   - Mira
+  - NewScene
+  - Quest
 ---
 Name:
 - [[name_9]]
 Sound:
-- [[sound_49]]
 - [[sound_17]]
+- [[sound_49]]
 Quest:
 - [[quest_10]]
 Item:

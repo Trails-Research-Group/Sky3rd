@@ -1,7 +1,7 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Flag:
 - [[flag_9476]]

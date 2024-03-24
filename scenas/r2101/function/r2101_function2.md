@@ -13,7 +13,7 @@ Sound:
 - [[sound_38]]
 Trigger:
 - [[r2101_trigger0]]
-- [[r2101_trigger2]]
 - [[r2101_trigger1]]
+- [[r2101_trigger2]]
 Flag:
 - [[flag_12066]]

@@ -1,11 +1,11 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Name:
-- [[name_19]]
 - [[name_14]]
+- [[name_19]]
 - [[name_8]]
 Party:
 - [[party_2]]
@@ -13,15 +13,15 @@ Party:
 Bgm:
 - [[bgm_210]]
 Sound:
-- [[sound_326]]
-- [[sound_153]]
 - [[sound_12]]
-- [[sound_215]]
 - [[sound_143]]
+- [[sound_153]]
+- [[sound_215]]
 - [[sound_312]]
-- [[sound_49]]
+- [[sound_326]]
 - [[sound_327]]
 - [[sound_39]]
+- [[sound_49]]
 Fn:
 - [[u7000_2_function8]]
 Flag:

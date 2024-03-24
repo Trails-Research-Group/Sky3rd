@@ -1,42 +1,42 @@
 ---
 tags:
   - FlagSet
-  - Quest
-  - Party
   - Item
+  - Party
+  - Quest
 ---
 System:
 - [[system_28]]
 Fn:
 - [[m3201_function11]]
 Sound:
-- [[sound_326]]
-- [[sound_153]]
-- [[sound_184]]
 - [[sound_143]]
-- [[sound_312]]
+- [[sound_153]]
 - [[sound_17]]
+- [[sound_184]]
+- [[sound_312]]
+- [[sound_326]]
 Name:
-- [[name_14]]
-- [[name_5]]
-- [[name_15]]
-- [[name_11]]
-- [[name_1]]
-- [[name_8]]
-- [[name_7]]
-- [[name_2]]
 - [[name_0]]
+- [[name_1]]
+- [[name_11]]
 - [[name_13]]
+- [[name_14]]
+- [[name_15]]
+- [[name_2]]
+- [[name_5]]
+- [[name_7]]
+- [[name_8]]
 Party:
-- [[party_2]]
-- [[party_3]]
 - [[party_0]]
 - [[party_1]]
+- [[party_2]]
+- [[party_3]]
 Field_party:
-- [[field_party_3]]
 - [[field_party_0]]
-- [[field_party_2]]
 - [[field_party_1]]
+- [[field_party_2]]
+- [[field_party_3]]
 Item:
 - [[item_820]]
 Flag:

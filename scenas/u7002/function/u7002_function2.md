@@ -13,9 +13,9 @@ Name:
 - [[name_14]]
 - [[name_8]]
 Fn:
-- [[u7002_function5]]
-- [[u7002_function6]]
 - [[u7002_function3]]
 - [[u7002_function4]]
+- [[u7002_function5]]
+- [[u7002_function6]]
 System:
 - [[system_10]]

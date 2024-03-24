@@ -3,8 +3,8 @@ tags:
   - Quest
 ---
 Flag:
-- [[flag_9617]]
 - [[flag_10712]]
+- [[flag_9617]]
 Quest:
 - [[quest_12]]
 System:

@@ -1,8 +1,8 @@
 ---
 tags:
   - FlagSet
-  - Quest
   - Item
+  - Quest
 ---
 Sound:
 - [[sound_17]]

@@ -7,20 +7,20 @@ Name:
 - [[name_2]]
 - [[name_80]]
 Sound:
-- [[sound_366]]
-- [[sound_164]]
-- [[sound_38]]
 - [[sound_163]]
-- [[sound_402]]
-- [[sound_39]]
+- [[sound_164]]
+- [[sound_366]]
 - [[sound_372]]
+- [[sound_38]]
+- [[sound_39]]
+- [[sound_402]]
 Flag:
 - [[flag_12115]]
 - [[flag_12116]]
 Fn:
-- [[t4103_function20]]
-- [[t4103_function19]]
 - [[t4103_function18]]
+- [[t4103_function19]]
+- [[t4103_function20]]
 - [[t4103_function32]]
 Field_party:
 - [[field_party_0]]

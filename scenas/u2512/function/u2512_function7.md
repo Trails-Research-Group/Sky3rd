@@ -1,8 +1,8 @@
 ---
 tags:
-  - NewScene
   - FlagSet
   - FlagUnset
+  - NewScene
   - Quest
 ---
 Sound:
@@ -10,8 +10,8 @@ Sound:
 Flag:
 - [[flag_11084]]
 - [[flag_11085]]
+- [[flag_11086]]
 - [[flag_11087]]
 - [[flag_9476]]
-- [[flag_11086]]
 Quest:
 - [[quest_55]]

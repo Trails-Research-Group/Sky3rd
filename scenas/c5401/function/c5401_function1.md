@@ -10,5 +10,5 @@ Fn:
 - [[t7000_function10]]
 - [[t7000_function11]]
 Entrance:
-- [[c5401_entrance2]]
 - [[c5401_entrance1]]
+- [[c5401_entrance2]]

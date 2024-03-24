@@ -1,11 +1,11 @@
 ---
 tags:
   - FlagSet
-  - Sepith
   - Mira
+  - Sepith
 ---
 Flag:
 - [[flag_11209]]
 Sound:
-- [[sound_43]]
 - [[sound_17]]
+- [[sound_43]]

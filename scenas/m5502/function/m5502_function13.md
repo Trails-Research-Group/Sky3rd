@@ -4,9 +4,9 @@ tags:
   - FlagUnset
 ---
 Flag:
+- [[flag_10600]]
 - [[flag_10601]]
 - [[flag_10610]]
-- [[flag_10600]]
 System:
 - [[system_40]]
 Sound:

@@ -1,12 +1,12 @@
 ---
 tags:
   - Call
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Sound:
-- [[sound_49]]
 - [[sound_121]]
+- [[sound_49]]
 Fn:
 - [[t3102_function10]]
 - [[t3102_function8]]

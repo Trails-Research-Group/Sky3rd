@@ -5,14 +5,14 @@ tags:
 Name:
 - [[name_5]]
 Item:
-- [[item_643]]
-- [[item_610]]
-- [[item_617]]
-- [[item_664]]
-- [[item_626]]
-- [[item_602]]
+- [[item_106]]
 - [[item_1230]]
 - [[item_1555]]
-- [[item_106]]
+- [[item_602]]
+- [[item_610]]
+- [[item_617]]
+- [[item_626]]
+- [[item_643]]
+- [[item_664]]
 Magic:
 - [[magic_0]]

@@ -6,17 +6,17 @@ tags:
 System:
 - [[system_40]]
 Flag:
-- [[flag_11046]]
 - [[flag_11045]]
+- [[flag_11046]]
 Name:
-- [[name_15]]
 - [[name_0]]
 - [[name_1]]
+- [[name_15]]
 - [[name_8]]
 Party:
+- [[party_1]]
 - [[party_2]]
 - [[party_3]]
-- [[party_1]]
 Sound:
 - [[sound_170]]
 - [[sound_225]]

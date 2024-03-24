@@ -3,19 +3,19 @@ tags:
   - ED6Battle
 ---
 Party:
-- [[party_2]]
 - [[party_0]]
 - [[party_1]]
+- [[party_2]]
 - [[party_3]]
 Name:
-- [[name_9]]
 - [[name_8]]
+- [[name_9]]
 Sound:
-- [[sound_213]]
-- [[sound_563]]
 - [[sound_133]]
+- [[sound_213]]
 - [[sound_216]]
 - [[sound_39]]
+- [[sound_563]]
 Bgm:
 - [[bgm_196]]
 Fn:

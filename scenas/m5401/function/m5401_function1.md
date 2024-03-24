@@ -10,8 +10,8 @@ Entrance:
 Quest:
 - [[quest_18]]
 Look_point:
-- [[m5401_look_point1]]
 - [[m5401_look_point0]]
+- [[m5401_look_point1]]
 Fn:
 - [[m5401_function9]]
 Name:

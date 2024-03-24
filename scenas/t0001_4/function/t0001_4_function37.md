@@ -7,9 +7,9 @@ Flag:
 System:
 - [[system_40]]
 Sound:
-- [[sound_312]]
-- [[sound_13]]
 - [[sound_12]]
+- [[sound_13]]
+- [[sound_312]]
 Shop:
 - [[shop_0]]
 - [[shop_15]]

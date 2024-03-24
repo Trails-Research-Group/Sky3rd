@@ -1,7 +1,7 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 System:
 - [[system_58]]

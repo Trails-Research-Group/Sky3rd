@@ -6,7 +6,7 @@ tags:
 Flag:
 - [[flag_11388]]
 Sound:
-- [[sound_43]]
 - [[sound_17]]
+- [[sound_43]]
 Item:
 - [[item_525]]

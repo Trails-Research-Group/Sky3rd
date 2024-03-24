@@ -4,14 +4,14 @@ tags:
   - Party
 ---
 Flag:
-- [[flag_5]]
 - [[flag_11296]]
+- [[flag_5]]
 Name:
+- [[name_0]]
 - [[name_14]]
 - [[name_15]]
 - [[name_3]]
 - [[name_6]]
-- [[name_0]]
 Sound:
 - [[sound_49]]
 Field_party:

@@ -2,15 +2,15 @@
 tags:
 ---
 Flag:
-- [[flag_9999]]
-- [[flag_9988]]
 - [[flag_10017]]
 - [[flag_9606]]
+- [[flag_9988]]
+- [[flag_9999]]
 Sound:
 - [[sound_459]]
 Entrance:
-- [[u4100_entrance9]]
 - [[u4100_entrance10]]
+- [[u4100_entrance9]]
 System:
 - [[system_66]]
 Look_point:

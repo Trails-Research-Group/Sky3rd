@@ -6,8 +6,8 @@ tags:
 Fn:
 - [[t2400_function5]]
 Sound:
-- [[sound_401]]
 - [[sound_17]]
+- [[sound_401]]
 Flag:
 - [[flag_0]]
 Item:

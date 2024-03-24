@@ -1,10 +1,10 @@
 ---
 tags:
   - Call
-  - NewScene
   - FlagSet
-  - Quest
   - Item
+  - NewScene
+  - Quest
 ---
 Bgm:
 - [[bgm_25]]
@@ -21,5 +21,5 @@ Item:
 - [[item_486]]
 - [[item_525]]
 Sound:
-- [[sound_23]]
 - [[sound_17]]
+- [[sound_23]]

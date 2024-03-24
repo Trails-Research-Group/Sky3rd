@@ -1,16 +1,16 @@
 ---
 tags:
   - Call
-  - NewScene
   - FlagSet
-  - Quest
+  - NewScene
   - Party
+  - Quest
 ---
 Name:
 - [[name_6]]
 Fn:
-- [[p9000_function9]]
 - [[p9000_function12]]
+- [[p9000_function9]]
 Party:
 - [[party_0]]
 Quest:

@@ -6,10 +6,10 @@ tags:
 Sound:
 - [[sound_546]]
 Field_party:
-- [[field_party_3]]
 - [[field_party_0]]
-- [[field_party_2]]
 - [[field_party_1]]
+- [[field_party_2]]
+- [[field_party_3]]
 Quest:
 - [[quest_19]]
 Name:
@@ -17,5 +17,5 @@ Name:
 System:
 - [[system_24]]
 Fn:
-- [[u4131_function7]]
 - [[u4131_function5]]
+- [[u4131_function7]]

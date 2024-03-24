@@ -1,8 +1,8 @@
 ---
 tags:
   - Call
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Bgm:
 - [[bgm_192]]
@@ -11,5 +11,5 @@ System:
 Fn:
 - [[c4203_function6]]
 Flag:
-- [[flag_9999]]
 - [[flag_9477]]
+- [[flag_9999]]

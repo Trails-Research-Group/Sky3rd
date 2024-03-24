@@ -1,8 +1,8 @@
 ---
 tags:
   - Call
-  - NewScene
   - FlagSet
+  - NewScene
   - Party
 ---
 Name:
@@ -14,9 +14,9 @@ Party:
 Fn:
 - [[t0001_4_function5]]
 Flag:
-- [[flag_9479]]
-- [[flag_9702]]
-- [[flag_9478]]
-- [[flag_9477]]
 - [[flag_9476]]
+- [[flag_9477]]
+- [[flag_9478]]
+- [[flag_9479]]
 - [[flag_9685]]
+- [[flag_9702]]

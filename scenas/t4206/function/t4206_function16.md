@@ -1,16 +1,16 @@
 ---
 tags:
   - Call
-  - NewScene
   - FlagSet
-  - Quest
   - Mira
+  - NewScene
+  - Quest
 ---
 Name:
 - [[name_1]]
 Fn:
-- [[t4206_function15]]
 - [[sub000_function25]]
+- [[t4206_function15]]
 Quest:
 - [[quest_7]]
 Sound:

@@ -1,8 +1,8 @@
 ---
 tags:
-  - NewScene
   - FlagSet
   - FlagUnset
+  - NewScene
 ---
 Name:
 - [[name_0]]
@@ -12,14 +12,14 @@ Party:
 - [[party_2]]
 - [[party_3]]
 Sound:
-- [[sound_326]]
-- [[sound_153]]
 - [[sound_12]]
-- [[sound_215]]
 - [[sound_143]]
+- [[sound_153]]
+- [[sound_215]]
 - [[sound_312]]
-- [[sound_38]]
+- [[sound_326]]
 - [[sound_327]]
+- [[sound_38]]
 - [[sound_39]]
 Bgm:
 - [[bgm_184]]

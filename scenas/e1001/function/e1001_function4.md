@@ -4,8 +4,8 @@ tags:
   - Quest
 ---
 Quest:
-- [[quest_34]]
 - [[quest_33]]
+- [[quest_34]]
 - [[quest_35]]
 System:
 - [[system_40]]

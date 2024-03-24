@@ -2,7 +2,7 @@
 tags:
 ---
 Sound:
-- [[sound_157]]
 - [[sound_156]]
+- [[sound_157]]
 Global:
 - [[global_0]]

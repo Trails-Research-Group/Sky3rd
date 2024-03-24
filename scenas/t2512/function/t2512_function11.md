@@ -3,7 +3,7 @@ tags:
   - FlagSet
 ---
 Flag:
-- [[flag_4]]
 - [[flag_12140]]
+- [[flag_4]]
 Sound:
 - [[sound_49]]

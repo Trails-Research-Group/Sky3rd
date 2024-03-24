@@ -1,36 +1,36 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Bgm:
 - [[bgm_157]]
 Field_party:
-- [[field_party_3]]
 - [[field_party_0]]
-- [[field_party_2]]
 - [[field_party_1]]
+- [[field_party_2]]
+- [[field_party_3]]
 Name:
-- [[name_14]]
-- [[name_5]]
-- [[name_11]]
+- [[name_0]]
 - [[name_1]]
-- [[name_3]]
+- [[name_10]]
+- [[name_11]]
 - [[name_12]]
+- [[name_13]]
+- [[name_14]]
+- [[name_2]]
+- [[name_3]]
 - [[name_4]]
+- [[name_5]]
 - [[name_6]]
-- [[name_9]]
 - [[name_7]]
 - [[name_8]]
-- [[name_10]]
-- [[name_2]]
-- [[name_0]]
-- [[name_13]]
+- [[name_9]]
 Sound:
-- [[sound_293]]
 - [[sound_243]]
-- [[sound_451]]
+- [[sound_293]]
 - [[sound_344]]
+- [[sound_451]]
 System:
 - [[system_28]]
 Fn:

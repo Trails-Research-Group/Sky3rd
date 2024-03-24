@@ -2,7 +2,7 @@
 tags:
 ---
 Sound:
-- [[sound_34]]
 - [[sound_24]]
+- [[sound_34]]
 Name:
 - [[name_0]]

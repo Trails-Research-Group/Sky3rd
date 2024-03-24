@@ -1,7 +1,7 @@
 ---
 tags:
-  - NewScene
   - Item
+  - NewScene
 ---
 Item:
 - [[item_529]]

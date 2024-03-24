@@ -1,19 +1,19 @@
 ---
 tags:
   - Call
-  - NewScene
   - FlagSet
-  - Quest
-  - Party
   - Item
   - Mira
+  - NewScene
+  - Party
+  - Quest
 ---
 Fn:
 - [[sub000_function25]]
 Flag:
-- [[flag_9477]]
 - [[flag_0]]
 - [[flag_11047]]
+- [[flag_9477]]
 Quest:
 - [[quest_36]]
 Item:

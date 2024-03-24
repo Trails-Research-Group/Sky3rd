@@ -1,8 +1,8 @@
 ---
 tags:
   - Call
-  - NewScene
   - FlagSet
+  - NewScene
   - Party
 ---
 Name:

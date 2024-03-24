@@ -1,15 +1,15 @@
 ---
 tags:
   - Call
-  - Quest
   - Party
+  - Quest
 ---
 Quest:
-- [[quest_1]]
 - [[quest_0]]
+- [[quest_1]]
 Fn:
-- [[t0001_4_function40]]
 - [[t0001_4_function39]]
+- [[t0001_4_function40]]
 Name:
 - [[name_6]]
 Sound:

@@ -2,8 +2,8 @@
 tags:
 ---
 Flag:
-- [[flag_9741]]
 - [[flag_9740]]
+- [[flag_9741]]
 System:
 - [[system_10]]
 Name:

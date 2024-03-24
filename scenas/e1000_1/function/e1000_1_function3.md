@@ -1,23 +1,23 @@
 ---
 tags:
-  - NewScene
   - FlagSet
   - FlagUnset
-  - Quest
   - Item
   - Mira
+  - NewScene
+  - Quest
 ---
 Bgm:
 - [[bgm_56]]
 :
 - [[_Report on the Attack on Erebonia's Bracer Guilds]]
 Sound:
-- [[sound_195]]
-- [[sound_18]]
 - [[sound_17]]
+- [[sound_18]]
+- [[sound_195]]
 Flag:
-- [[flag_9476]]
 - [[flag_0]]
+- [[flag_9476]]
 Field_party:
 - [[field_party_0]]
 Fn:

@@ -1,10 +1,10 @@
 ---
 tags:
   - Call
-  - NewScene
   - FlagSet
-  - Quest
   - Item
+  - NewScene
+  - Quest
 ---
 Quest:
 - [[quest_65]]

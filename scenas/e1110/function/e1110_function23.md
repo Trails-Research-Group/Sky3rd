@@ -1,13 +1,13 @@
 ---
 tags:
-  - NewScene
   - ED6Battle
   - FlagSet
+  - NewScene
 ---
 Flag:
-- [[flag_9709]]
 - [[flag_9477]]
 - [[flag_9701]]
+- [[flag_9709]]
 Name:
 - [[name_8]]
 Sound:

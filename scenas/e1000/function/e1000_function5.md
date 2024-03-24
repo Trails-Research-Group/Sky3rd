@@ -1,13 +1,13 @@
 ---
 tags:
   - Call
-  - NewScene
   - FlagSet
+  - NewScene
   - Quest
 ---
 Quest:
-- [[quest_27]]
 - [[quest_26]]
+- [[quest_27]]
 Bgm:
 - [[bgm_25]]
 System:
@@ -17,5 +17,5 @@ Flag:
 Fn:
 - [[e1000_function8]]
 Sound:
-- [[sound_23]]
 - [[sound_17]]
+- [[sound_23]]

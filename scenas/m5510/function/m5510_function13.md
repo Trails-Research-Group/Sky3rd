@@ -9,9 +9,9 @@ Party:
 - [[party_2]]
 - [[party_3]]
 Sound:
-- [[sound_157]]
-- [[sound_156]]
 - [[sound_107]]
+- [[sound_156]]
+- [[sound_157]]
 Field_party:
 - [[field_party_0]]
 Flag:

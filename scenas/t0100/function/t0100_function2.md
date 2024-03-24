@@ -1,7 +1,7 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Field_party:
 - [[field_party_0]]

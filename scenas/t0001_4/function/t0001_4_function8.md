@@ -1,13 +1,13 @@
 ---
 tags:
   - FlagSet
-  - Party
   - Item
+  - Party
 ---
 Flag:
+- [[flag_9685]]
 - [[flag_9702]]
 - [[flag_9703]]
-- [[flag_9685]]
 Name:
 - [[name_14]]
 Party:

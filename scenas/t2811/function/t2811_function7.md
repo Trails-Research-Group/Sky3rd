@@ -1,11 +1,11 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Flag:
-- [[flag_12161]]
 - [[flag_12142]]
+- [[flag_12161]]
 System:
 - [[system_40]]
 Name:

@@ -1,11 +1,11 @@
 ---
 tags:
   - Call
-  - NewScene
   - FlagSet
-  - Quest
   - Item
   - Mira
+  - NewScene
+  - Quest
 ---
 Name:
 - [[name_4]]
@@ -13,8 +13,8 @@ Bgm:
 - [[bgm_117]]
 Sound:
 - [[sound_143]]
-- [[sound_17]]
 - [[sound_15]]
+- [[sound_17]]
 - [[sound_38]]
 Fn:
 - [[sub000_function25]]

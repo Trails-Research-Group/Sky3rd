@@ -1,13 +1,13 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Name:
 - [[name_13]]
 Sound:
-- [[sound_39]]
 - [[sound_38]]
+- [[sound_39]]
 Fn:
 - [[t4200_function8]]
 Flag:

@@ -1,8 +1,8 @@
 ---
 tags:
   - Call
-  - Quest
   - Party
+  - Quest
 ---
 Name:
 - [[name_0]]
@@ -11,5 +11,5 @@ Party:
 Quest:
 - [[quest_29]]
 Fn:
-- [[c4203_function5]]
 - [[c4203_function4]]
+- [[c4203_function5]]

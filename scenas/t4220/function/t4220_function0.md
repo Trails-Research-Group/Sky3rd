@@ -8,5 +8,5 @@ System:
 Flag:
 - [[flag_9476]]
 Fn:
-- [[t4220_function3]]
 - [[t4220_function2]]
+- [[t4220_function3]]

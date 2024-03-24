@@ -11,10 +11,10 @@ Field_party:
 - [[field_party_1]]
 Sound:
 - [[sound_213]]
-- [[sound_480]]
 - [[sound_216]]
-- [[sound_473]]
 - [[sound_39]]
+- [[sound_473]]
+- [[sound_480]]
 Party:
 - [[party_0]]
 - [[party_1]]

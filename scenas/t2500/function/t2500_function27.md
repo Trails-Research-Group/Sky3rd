@@ -9,5 +9,5 @@ Bgm:
 Fn:
 - [[t2500_function28]]
 Sound:
-- [[sound_406]]
 - [[sound_140]]
+- [[sound_406]]

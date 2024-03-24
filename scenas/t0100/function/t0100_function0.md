@@ -9,6 +9,6 @@ Flag:
 - [[flag_9476]]
 - [[flag_9477]]
 Fn:
-- [[t0100_function9]]
-- [[t0100_function4]]
 - [[t0100_function3]]
+- [[t0100_function4]]
+- [[t0100_function9]]

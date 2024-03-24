@@ -1,8 +1,8 @@
 ---
 tags:
   - ED6Battle
-  - Party
   - Item
+  - Party
 ---
 Name:
 - [[name_5]]
@@ -12,18 +12,18 @@ Sound:
 Fn:
 - [[t3121_function19]]
 Item:
+- [[item_0]]
 - [[item_1000]]
 - [[item_499]]
 - [[item_519]]
-- [[item_0]]
 Magic:
-- [[magic_130]]
-- [[magic_10]]
-- [[magic_30]]
-- [[magic_131]]
 - [[magic_0]]
-- [[magic_87]]
+- [[magic_10]]
+- [[magic_130]]
+- [[magic_131]]
+- [[magic_30]]
 - [[magic_65535]]
+- [[magic_87]]
 System:
 - [[system_28]]
 Battle:

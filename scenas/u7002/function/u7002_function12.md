@@ -1,13 +1,13 @@
 ---
 tags:
   - Item
-  - Sepith
   - Mira
+  - Sepith
 ---
 System:
 - [[system_70]]
 Sound:
 - [[sound_17]]
 Item:
-- [[item_348]]
 - [[item_347]]
+- [[item_348]]

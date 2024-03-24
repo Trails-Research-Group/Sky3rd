@@ -1,11 +1,11 @@
 ---
 tags:
   - Call
-  - NewScene
   - FlagSet
-  - Quest
   - Item
   - Mira
+  - NewScene
+  - Quest
 ---
 System:
 - [[system_28]]

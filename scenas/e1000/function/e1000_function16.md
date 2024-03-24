@@ -1,11 +1,11 @@
 ---
 tags:
-  - NewScene
   - FlagSet
   - FlagUnset
-  - Quest
   - Item
   - Mira
+  - NewScene
+  - Quest
 ---
 Bgm:
 - [[bgm_110]]
@@ -14,12 +14,12 @@ Field_party:
 Fn:
 - [[e1000_function18]]
 Flag:
-- [[flag_9999]]
-- [[flag_9478]]
 - [[flag_0]]
+- [[flag_9478]]
+- [[flag_9999]]
 Sound:
-- [[sound_18]]
 - [[sound_17]]
+- [[sound_18]]
 Quest:
 - [[quest_19]]
 Item:

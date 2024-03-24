@@ -2,11 +2,11 @@
 tags:
 ---
 Sound:
+- [[sound_163]]
+- [[sound_164]]
+- [[sound_203]]
 - [[sound_213]]
 - [[sound_896]]
-- [[sound_163]]
-- [[sound_203]]
-- [[sound_164]]
 Name:
 - [[name_8]]
 Fn:

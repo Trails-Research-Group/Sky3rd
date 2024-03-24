@@ -1,11 +1,11 @@
 ---
 tags:
   - Call
-  - NewScene
   - FlagSet
-  - Quest
   - Item
   - Mira
+  - NewScene
+  - Quest
 ---
 Name:
 - [[name_9]]
@@ -14,8 +14,8 @@ Fn:
 Quest:
 - [[quest_10]]
 Flag:
-- [[flag_9476]]
 - [[flag_12198]]
+- [[flag_9476]]
 Item:
 - [[item_1424]]
 Sound:

@@ -13,8 +13,8 @@ Sound:
 System:
 - [[system_40]]
 Item:
-- [[item_226]]
 - [[item_225]]
+- [[item_226]]
 - [[item_227]]
 - [[item_228]]
 - [[item_229]]

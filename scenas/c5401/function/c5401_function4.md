@@ -1,11 +1,11 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Sound:
-- [[sound_188]]
 - [[sound_157]]
+- [[sound_188]]
 System:
 - [[system_28]]
 Bgm:

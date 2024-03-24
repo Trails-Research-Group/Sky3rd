@@ -4,9 +4,9 @@ tags:
   - Quest
 ---
 Name:
+- [[name_13]]
 - [[name_14]]
 - [[name_8]]
-- [[name_13]]
 Party:
 - [[party_2]]
 - [[party_3]]

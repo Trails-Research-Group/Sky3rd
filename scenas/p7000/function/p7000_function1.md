@@ -6,8 +6,8 @@ Flag:
 - [[flag_11279]]
 - [[flag_9602]]
 System:
-- [[system_4]]
 - [[system_1]]
+- [[system_4]]
 Look_point:
 - [[p7000_look_point0]]
 - [[p7000_look_point1]]

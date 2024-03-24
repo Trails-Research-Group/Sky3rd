@@ -1,11 +1,11 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Fn:
-- [[t2412_function6]]
 - [[t2412_function5]]
+- [[t2412_function6]]
 Name:
 - [[name_77]]
 Sound:

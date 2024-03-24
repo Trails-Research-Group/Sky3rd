@@ -11,6 +11,6 @@ Fn:
 - [[m5600_function16]]
 - [[m5600_function19]]
 Flag:
+- [[flag_11020]]
 - [[flag_11070]]
 - [[flag_11096]]
-- [[flag_11020]]

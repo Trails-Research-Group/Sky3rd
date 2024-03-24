@@ -2,24 +2,24 @@
 tags:
   - Call
   - FlagSet
-  - Quest
-  - Party
   - Item
+  - Party
+  - Quest
 ---
 Name:
+- [[name_13]]
 - [[name_14]]
 - [[name_19]]
 - [[name_6]]
 - [[name_8]]
-- [[name_13]]
 Sound:
 - [[sound_153]]
 - [[sound_312]]
-- [[sound_39]]
 - [[sound_326]]
+- [[sound_39]]
 Flag:
-- [[flag_9754]]
 - [[flag_9684]]
+- [[flag_9754]]
 Quest:
 - [[quest_42]]
 Item:

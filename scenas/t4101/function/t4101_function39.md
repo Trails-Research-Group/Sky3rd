@@ -13,10 +13,10 @@ Sound:
 Bgm:
 - [[bgm_115]]
 Fn:
-- [[t4101_function41]]
-- [[t4101_function43]]
-- [[t4101_function42]]
 - [[t4101_function40]]
+- [[t4101_function41]]
+- [[t4101_function42]]
+- [[t4101_function43]]
 System:
 - [[system_28]]
 Battle:

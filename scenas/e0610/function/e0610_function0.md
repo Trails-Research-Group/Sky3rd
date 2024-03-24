@@ -9,5 +9,5 @@ Flag:
 - [[flag_9476]]
 - [[flag_9477]]
 Fn:
-- [[e0610_function3]]
 - [[e0610_function2]]
+- [[e0610_function3]]

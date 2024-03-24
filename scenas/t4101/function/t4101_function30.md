@@ -7,8 +7,8 @@ Name:
 - [[name_80]]
 Sound:
 - [[sound_143]]
-- [[sound_49]]
 - [[sound_164]]
+- [[sound_49]]
 Fn:
 - [[t4101_function12]]
 - [[t4101_function2]]

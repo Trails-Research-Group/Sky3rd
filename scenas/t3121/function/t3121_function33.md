@@ -1,7 +1,7 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Name:
 - [[name_6]]
@@ -11,9 +11,9 @@ Fn:
 Sound:
 - [[sound_109]]
 - [[sound_14]]
-- [[sound_49]]
 - [[sound_164]]
 - [[sound_39]]
+- [[sound_49]]
 Bgm:
 - [[bgm_117]]
 Flag:

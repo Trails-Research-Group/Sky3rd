@@ -2,10 +2,10 @@
 tags:
 ---
 System:
-- [[system_1]]
 - [[system_0]]
+- [[system_1]]
 Flag:
-- [[flag_11039]]
 - [[flag_11038]]
+- [[flag_11039]]
 Fn:
 - [[m3203_function7]]

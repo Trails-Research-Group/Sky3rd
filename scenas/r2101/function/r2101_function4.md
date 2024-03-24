@@ -7,7 +7,7 @@ System:
 Name:
 - [[name_77]]
 Trigger:
-- [[r2101_trigger2]]
 - [[r2101_trigger1]]
+- [[r2101_trigger2]]
 Flag:
 - [[flag_12067]]

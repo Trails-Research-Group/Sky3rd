@@ -7,15 +7,15 @@ Name:
 - [[name_14]]
 - [[name_8]]
 Fn:
-- [[u7001_function4]]
 - [[u7001_function3]]
+- [[u7001_function4]]
 Bgm:
 - [[bgm_210]]
 Sound:
 - [[sound_143]]
+- [[sound_17]]
 - [[sound_213]]
 - [[sound_39]]
-- [[sound_17]]
 Item:
 - [[item_403]]
 Flag:

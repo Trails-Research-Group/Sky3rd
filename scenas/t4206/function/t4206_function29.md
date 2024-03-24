@@ -4,8 +4,8 @@ tags:
   - FlagSet
 ---
 Flag:
-- [[flag_2]]
 - [[flag_12188]]
+- [[flag_2]]
 Name:
 - [[name_1]]
 Fn:

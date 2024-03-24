@@ -11,8 +11,8 @@ Fn:
 - [[t4103_function14]]
 Sound:
 - [[sound_216]]
-- [[sound_39]]
 - [[sound_38]]
+- [[sound_39]]
 System:
 - [[system_28]]
 Battle:

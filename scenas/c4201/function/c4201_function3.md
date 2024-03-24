@@ -1,20 +1,20 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
   - Party
 ---
 Name:
 - [[name_2]]
 - [[name_80]]
 Sound:
-- [[sound_461]]
-- [[sound_457]]
-- [[sound_208]]
-- [[sound_38]]
 - [[sound_100]]
-- [[sound_371]]
 - [[sound_115]]
+- [[sound_208]]
+- [[sound_371]]
+- [[sound_38]]
+- [[sound_457]]
+- [[sound_461]]
 Bgm:
 - [[bgm_26]]
 Fn:

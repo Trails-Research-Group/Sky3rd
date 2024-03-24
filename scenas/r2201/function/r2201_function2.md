@@ -1,8 +1,8 @@
 ---
 tags:
   - Call
-  - Quest
   - Party
+  - Quest
 ---
 Name:
 - [[name_0]]

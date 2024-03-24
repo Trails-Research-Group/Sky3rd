@@ -1,19 +1,19 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Sound:
-- [[sound_345]]
+- [[sound_118]]
 - [[sound_273]]
 - [[sound_293]]
-- [[sound_118]]
+- [[sound_345]]
 - [[sound_451]]
 Field_party:
-- [[field_party_3]]
 - [[field_party_0]]
-- [[field_party_2]]
 - [[field_party_1]]
+- [[field_party_2]]
+- [[field_party_3]]
 Party:
 - [[party_0]]
 - [[party_1]]

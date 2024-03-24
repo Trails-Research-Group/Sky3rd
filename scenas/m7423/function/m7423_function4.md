@@ -6,7 +6,7 @@ tags:
 Flag:
 - [[flag_11460]]
 Sound:
-- [[sound_43]]
 - [[sound_17]]
+- [[sound_43]]
 Fn:
 - [[sub000_function24]]

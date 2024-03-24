@@ -1,21 +1,21 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Flag:
-- [[flag_12140]]
-- [[flag_12143]]
-- [[flag_12199]]
-- [[flag_12142]]
 - [[flag_0]]
-- [[flag_12144]]
-- [[flag_12161]]
-- [[flag_9478]]
-- [[flag_9477]]
-- [[flag_12145]]
-- [[flag_12139]]
 - [[flag_12133]]
+- [[flag_12139]]
+- [[flag_12140]]
+- [[flag_12142]]
+- [[flag_12143]]
+- [[flag_12144]]
+- [[flag_12145]]
+- [[flag_12161]]
+- [[flag_12199]]
+- [[flag_9477]]
+- [[flag_9478]]
 System:
 - [[system_40]]
 Name:

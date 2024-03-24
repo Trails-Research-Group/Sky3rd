@@ -5,8 +5,8 @@ tags:
 ---
 Flag:
 - [[flag_10592]]
-- [[flag_10607]]
 - [[flag_10593]]
+- [[flag_10607]]
 System:
 - [[system_40]]
 Sound:

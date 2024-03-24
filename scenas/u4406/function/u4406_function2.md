@@ -1,19 +1,19 @@
 ---
 tags:
   - FlagSet
-  - Quest
   - Party
+  - Quest
 ---
 Flag:
 - [[flag_9993]]
 System:
 - [[system_10]]
 Name:
-- [[name_14]]
 - [[name_12]]
+- [[name_13]]
+- [[name_14]]
 - [[name_6]]
 - [[name_8]]
-- [[name_13]]
 Sound:
 - [[sound_39]]
 Party:

@@ -7,10 +7,10 @@ Global:
 System:
 - [[system_0]]
 Flag:
-- [[flag_11288]]
-- [[flag_11286]]
 - [[flag_11285]]
-- [[flag_11289]]
+- [[flag_11286]]
 - [[flag_11287]]
+- [[flag_11288]]
+- [[flag_11289]]
 Fn:
 - [[m7310_function3]]

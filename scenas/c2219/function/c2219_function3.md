@@ -1,14 +1,14 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Flag:
+- [[flag_0]]
+- [[flag_12055]]
 - [[flag_12064]]
 - [[flag_12066]]
 - [[flag_12099]]
-- [[flag_0]]
-- [[flag_12055]]
 - [[flag_12100]]
 Name:
 - [[name_77]]

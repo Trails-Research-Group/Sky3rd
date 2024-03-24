@@ -9,5 +9,5 @@ Sound:
 Bgm:
 - [[bgm_224]]
 Shop:
-- [[shop_49]]
 - [[shop_13]]
+- [[shop_49]]

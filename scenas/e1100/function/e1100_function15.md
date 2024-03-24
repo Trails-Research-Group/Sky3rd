@@ -1,16 +1,16 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Name:
 - [[name_8]]
 Sound:
-- [[sound_725]]
-- [[sound_308]]
-- [[sound_724]]
 - [[sound_150]]
+- [[sound_308]]
 - [[sound_451]]
+- [[sound_724]]
+- [[sound_725]]
 Fn:
 - [[e1100_function17]]
 Flag:

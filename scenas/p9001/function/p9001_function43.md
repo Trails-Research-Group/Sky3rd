@@ -2,8 +2,8 @@
 tags:
   - Call
   - NewScene
-  - Quest
   - Party
+  - Quest
 ---
 Fn:
 - [[p9001_function12]]

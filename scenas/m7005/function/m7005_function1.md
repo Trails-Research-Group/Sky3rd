@@ -2,11 +2,11 @@
 tags:
 ---
 Flag:
-- [[flag_9605]]
 - [[flag_9602]]
+- [[flag_9605]]
 System:
-- [[system_4]]
 - [[system_1]]
+- [[system_4]]
 - [[system_66]]
 Look_point:
 - [[m7005_look_point2]]

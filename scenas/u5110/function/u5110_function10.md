@@ -1,8 +1,8 @@
 ---
 tags:
   - Call
-  - Quest
   - Item
+  - Quest
 ---
 Sound:
 - [[sound_312]]

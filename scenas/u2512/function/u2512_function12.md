@@ -1,17 +1,17 @@
 ---
 tags:
   - Call
-  - Quest
   - Mira
+  - Quest
 ---
 Sound:
 - [[sound_20]]
 - [[sound_546]]
 Field_party:
-- [[field_party_3]]
 - [[field_party_0]]
-- [[field_party_2]]
 - [[field_party_1]]
+- [[field_party_2]]
+- [[field_party_3]]
 Quest:
 - [[quest_11]]
 Name:

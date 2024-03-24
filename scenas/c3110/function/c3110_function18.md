@@ -6,10 +6,10 @@ Name:
 - [[name_9]]
 Fn:
 - [[c3110_function10]]
-- [[c3110_function14]]
 - [[c3110_function11]]
-- [[c3110_function13]]
 - [[c3110_function12]]
+- [[c3110_function13]]
+- [[c3110_function14]]
 Bgm:
 - [[bgm_173]]
 Sound:

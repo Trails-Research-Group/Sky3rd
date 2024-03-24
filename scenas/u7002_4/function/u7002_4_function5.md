@@ -10,5 +10,5 @@ Flag:
 Field_party:
 - [[field_party_0]]
 Name:
-- [[name_8]]
 - [[name_13]]
+- [[name_8]]

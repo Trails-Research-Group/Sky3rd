@@ -10,5 +10,5 @@ Bgm:
 System:
 - [[system_40]]
 Fn:
-- [[e1000_function11]]
 - [[e1000_function10]]
+- [[e1000_function11]]

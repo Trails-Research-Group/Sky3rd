@@ -2,8 +2,8 @@
 tags:
 ---
 System:
-- [[system_4]]
 - [[system_0]]
+- [[system_4]]
 - [[system_66]]
 Flag:
 - [[flag_10510]]

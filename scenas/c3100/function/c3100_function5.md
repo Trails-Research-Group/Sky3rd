@@ -1,7 +1,7 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Name:
 - [[name_9]]
@@ -12,7 +12,7 @@ Sound:
 - [[sound_15]]
 - [[sound_39]]
 Fn:
-- [[c3100_function4]]
 - [[c3100_function3]]
+- [[c3100_function4]]
 Flag:
 - [[flag_9478]]

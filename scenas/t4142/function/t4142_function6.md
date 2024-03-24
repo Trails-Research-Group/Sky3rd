@@ -1,24 +1,24 @@
 ---
 tags:
   - Call
-  - NewScene
   - FlagSet
-  - Quest
-  - Party
   - Item
   - Mira
+  - NewScene
+  - Party
+  - Quest
 ---
 Name:
 - [[name_2]]
 - [[name_80]]
 Sound:
 - [[sound_15]]
-- [[sound_49]]
-- [[sound_178]]
-- [[sound_38]]
-- [[sound_249]]
 - [[sound_17]]
+- [[sound_178]]
+- [[sound_249]]
+- [[sound_38]]
 - [[sound_39]]
+- [[sound_49]]
 Fn:
 - [[sub000_function25]]
 - [[t4142_function7]]

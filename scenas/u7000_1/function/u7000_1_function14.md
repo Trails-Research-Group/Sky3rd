@@ -1,26 +1,26 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Name:
-- [[name_19]]
 - [[name_14]]
-- [[name_8]]
+- [[name_19]]
 - [[name_65278]]
+- [[name_8]]
 Sound:
-- [[sound_213]]
-- [[sound_351]]
-- [[sound_331]]
 - [[sound_143]]
-- [[sound_285]]
 - [[sound_201]]
-- [[sound_535]]
+- [[sound_213]]
+- [[sound_285]]
+- [[sound_331]]
+- [[sound_351]]
 - [[sound_39]]
+- [[sound_535]]
 Flag:
 - [[flag_9476]]
-- [[flag_9733]]
 - [[flag_9718]]
+- [[flag_9733]]
 System:
 - [[system_28]]
 Bgm:

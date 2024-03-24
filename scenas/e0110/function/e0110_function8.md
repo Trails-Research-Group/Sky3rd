@@ -1,13 +1,13 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Sound:
 - [[sound_122]]
 - [[sound_131]]
-- [[sound_164]]
 - [[sound_163]]
+- [[sound_164]]
 - [[sound_171]]
 - [[sound_39]]
 Name:

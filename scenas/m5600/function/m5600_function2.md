@@ -1,8 +1,8 @@
 ---
 tags:
   - FlagSet
-  - Sepith
   - Mira
+  - Sepith
 ---
 Sound:
 - [[sound_17]]

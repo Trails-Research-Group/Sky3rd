@@ -6,8 +6,8 @@ tags:
 Global:
 - [[global_3]]
 Flag:
-- [[flag_9714]]
 - [[flag_0]]
+- [[flag_9714]]
 Name:
 - [[name_8]]
 Look_point:

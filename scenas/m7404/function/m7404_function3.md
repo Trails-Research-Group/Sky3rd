@@ -1,12 +1,12 @@
 ---
 tags:
-  - NewScene
   - FlagSet
+  - NewScene
 ---
 Party:
-- [[party_6]]
 - [[party_4]]
-- [[party_7]]
 - [[party_5]]
+- [[party_6]]
+- [[party_7]]
 Flag:
 - [[flag_9476]]

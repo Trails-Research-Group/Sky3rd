@@ -8,9 +8,9 @@ Name:
 - [[name_8]]
 Sound:
 - [[sound_143]]
-- [[sound_49]]
-- [[sound_39]]
 - [[sound_17]]
+- [[sound_39]]
+- [[sound_49]]
 System:
 - [[system_40]]
 Shop:
