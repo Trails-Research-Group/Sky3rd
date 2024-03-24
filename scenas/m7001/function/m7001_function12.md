@@ -1,5 +1,6 @@
 ---
 tags:
+  - NewScene
   - Quest
 ---
 Flag:
@@ -7,16 +8,16 @@ Flag:
 System:
 - [[system_10]]
 Name:
-- [[name_65278]]
+- [[name_6]]
 - [[name_14]]
 - [[name_8]]
-- [[name_6]]
+- [[name_65278]]
 Sound:
-- [[sound_546]]
-- [[sound_39]]
+- [[sound_250]]
 - [[sound_153]]
 - [[sound_312]]
-- [[sound_250]]
+- [[sound_546]]
+- [[sound_39]]
 Field_party:
 - [[field_party_1]]
 - [[field_party_2]]

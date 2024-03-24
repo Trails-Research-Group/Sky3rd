@@ -1,18 +1,20 @@
 ---
 tags:
+  - Call
+  - ED6Battle
 ---
 Name:
 - [[name_14]]
 - [[name_8]]
 Sound:
+- [[sound_213]]
+- [[sound_153]]
+- [[sound_184]]
 - [[sound_311]]
 - [[sound_39]]
-- [[sound_184]]
-- [[sound_153]]
-- [[sound_213]]
 Bgm:
-- [[bgm_151]]
 - [[bgm_220]]
+- [[bgm_151]]
 System:
 - [[system_28]]
 Battle:

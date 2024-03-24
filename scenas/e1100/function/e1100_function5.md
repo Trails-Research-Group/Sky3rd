@@ -1,13 +1,16 @@
 ---
 tags:
+  - Call
+  - NewScene
+  - FlagSet
   - Party
 ---
 Name:
-- [[name_4]]
 - [[name_1]]
+- [[name_3]]
+- [[name_4]]
 - [[name_8]]
 - [[name_2]]
-- [[name_3]]
 Party:
 - [[party_0]]
 Fn:
@@ -16,8 +19,8 @@ Fn:
 - [[sub000_function8]]
 - [[e1100_function6]]
 Flag:
-- [[flag_9473]]
 - [[flag_9476]]
+- [[flag_9473]]
 System:
 - [[system_4]]
 Sound:

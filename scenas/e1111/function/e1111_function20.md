@@ -1,5 +1,6 @@
 ---
 tags:
+  - FlagSet
 ---
 System:
 - [[system_28]]
@@ -10,8 +11,8 @@ Bgm:
 Fn:
 - [[e1111_function21]]
 Sound:
-- [[sound_524]]
 - [[sound_213]]
+- [[sound_524]]
 Flag:
 - [[flag_9701]]
 Look_point:

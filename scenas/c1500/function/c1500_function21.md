@@ -1,11 +1,13 @@
 ---
 tags:
+  - NewScene
+  - FlagSet
   - Party
 ---
 Sound:
+- [[sound_270]]
 - [[sound_38]]
 - [[sound_621]]
-- [[sound_270]]
 Name:
 - [[name_77]]
 - [[name_79]]

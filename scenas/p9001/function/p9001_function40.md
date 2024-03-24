@@ -1,5 +1,7 @@
 ---
 tags:
+  - Call
+  - NewScene
   - Quest
 ---
 Fn:

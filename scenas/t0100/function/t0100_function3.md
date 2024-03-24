@@ -1,5 +1,8 @@
 ---
 tags:
+  - Call
+  - NewScene
+  - FlagSet
   - Party
 ---
 Name:
@@ -10,8 +13,8 @@ Bgm:
 - [[bgm_192]]
 Sound:
 - [[sound_15]]
-- [[sound_7]]
 - [[sound_39]]
+- [[sound_7]]
 System:
 - [[system_40]]
 Fn:

@@ -1,5 +1,8 @@
 ---
 tags:
+  - Call
+  - NewScene
+  - FlagSet
   - Quest
   - Item
   - Mira
@@ -11,8 +14,8 @@ Fn:
 Quest:
 - [[quest_10]]
 Flag:
-- [[flag_12198]]
 - [[flag_9476]]
+- [[flag_12198]]
 Item:
 - [[item_1424]]
 Sound:

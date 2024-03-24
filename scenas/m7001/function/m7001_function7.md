@@ -1,5 +1,7 @@
 ---
 tags:
+  - FlagSet
+  - FlagUnset
   - Quest
   - Item
 ---
@@ -9,17 +11,17 @@ Name:
 - [[name_14]]
 - [[name_8]]
 Sound:
+- [[sound_213]]
+- [[sound_351]]
 - [[sound_143]]
 - [[sound_49]]
-- [[sound_39]]
-- [[sound_351]]
-- [[sound_17]]
 - [[sound_201]]
-- [[sound_213]]
+- [[sound_17]]
+- [[sound_39]]
 Item:
-- [[item_529]]
 - [[item_830]]
 - [[item_850]]
+- [[item_529]]
 Flag:
 - [[flag_1]]
 - [[flag_9740]]

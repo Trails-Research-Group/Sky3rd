@@ -1,9 +1,10 @@
 ---
 tags:
+  - FlagSet
 ---
 Look_point:
-- [[c4200_look_point3]]
 - [[c4200_look_point15]]
+- [[c4200_look_point3]]
 - [[c4200_look_point13]]
 Entrance:
 - [[c4200_entrance16]]

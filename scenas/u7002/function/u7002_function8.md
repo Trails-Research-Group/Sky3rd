@@ -1,15 +1,16 @@
 ---
 tags:
+  - FlagSet
   - Party
 ---
 Name:
 - [[name_14]]
 - [[name_8]]
 Flag:
-- [[flag_9736]]
 - [[flag_9758]]
-- [[flag_9735]]
 - [[flag_0]]
+- [[flag_9735]]
+- [[flag_9736]]
 Sound:
 - [[sound_11]]
 - [[sound_215]]
@@ -17,10 +18,10 @@ Sound:
 Global:
 - [[global_6]]
 System:
-- [[system_40]]
 - [[system_21]]
+- [[system_40]]
 Field_party:
-- [[field_party_1]]
 - [[field_party_0]]
+- [[field_party_1]]
 Look_point:
 - [[u7002_look_point0]]

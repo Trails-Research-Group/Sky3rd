@@ -1,5 +1,6 @@
 ---
 tags:
+  - Call
 ---
 Fn:
 - [[u5100_function3]]

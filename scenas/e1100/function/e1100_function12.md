@@ -1,9 +1,11 @@
 ---
 tags:
+  - ED6Battle
+  - FlagSet
 ---
 Flag:
-- [[flag_9705]]
 - [[flag_9701]]
+- [[flag_9705]]
 Name:
 - [[name_8]]
 Sound:

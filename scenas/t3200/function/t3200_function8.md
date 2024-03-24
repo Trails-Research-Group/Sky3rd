@@ -1,24 +1,26 @@
 ---
 tags:
+  - NewScene
+  - FlagSet
   - Quest
   - Item
   - Mira
 ---
 Sound:
-- [[sound_7]]
 - [[sound_6]]
+- [[sound_7]]
+- [[sound_17]]
 - [[sound_450]]
 - [[sound_39]]
-- [[sound_17]]
 Field_party:
-- [[field_party_1]]
+- [[field_party_3]]
 - [[field_party_0]]
 - [[field_party_2]]
-- [[field_party_3]]
+- [[field_party_1]]
 Fn:
+- [[t3200_function10]]
 - [[t3200_function9]]
 - [[t3200_function11]]
-- [[t3200_function10]]
 Quest:
 - [[quest_9]]
 Item:

@@ -1,12 +1,13 @@
 ---
 tags:
+  - FlagSet
   - Quest
   - Item
 ---
 Name:
+- [[name_6]]
 - [[name_14]]
 - [[name_8]]
-- [[name_6]]
 Sound:
 - [[sound_17]]
 Item:
@@ -18,6 +19,6 @@ Quest:
 Look_point:
 - [[p0310_look_point0]]
 Field_party:
-- [[field_party_1]]
 - [[field_party_0]]
 - [[field_party_2]]
+- [[field_party_1]]

@@ -1,9 +1,11 @@
 ---
 tags:
+  - NewScene
+  - FlagSet
 ---
 Name:
-- [[name_80]]
 - [[name_2]]
+- [[name_80]]
 Fn:
 - [[c4200_function4]]
 - [[c4200_function3]]

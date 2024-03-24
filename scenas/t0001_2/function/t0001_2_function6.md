@@ -1,6 +1,7 @@
 ---
 tags:
+  - ED6Battle
 ---
 Battle:
-- [[battle_2401]]
 - [[battle_2400]]
+- [[battle_2401]]

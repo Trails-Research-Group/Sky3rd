@@ -1,14 +1,15 @@
 ---
 tags:
+  - FlagSet
   - Quest
 ---
 Name:
+- [[name_6]]
 - [[name_14]]
 - [[name_8]]
-- [[name_6]]
 Sound:
-- [[sound_184]]
 - [[sound_153]]
+- [[sound_184]]
 Fn:
 - [[m7002_function3]]
 - [[m7002_function4]]

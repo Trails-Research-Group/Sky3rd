@@ -1,23 +1,24 @@
 ---
 tags:
+  - FlagSet
   - Quest
   - Party
   - Item
 ---
 Name:
-- [[name_13]]
+- [[name_6]]
 - [[name_14]]
 - [[name_8]]
-- [[name_6]]
+- [[name_13]]
 Party:
-- [[party_3]]
 - [[party_2]]
+- [[party_3]]
 - [[party_0]]
 Field_party:
-- [[field_party_1]]
+- [[field_party_3]]
 - [[field_party_0]]
 - [[field_party_2]]
-- [[field_party_3]]
+- [[field_party_1]]
 Sound:
 - [[sound_17]]
 Item:

@@ -2,9 +2,9 @@
 tags:
 ---
 System:
-- [[system_66]]
-- [[system_0]]
 - [[system_4]]
+- [[system_0]]
+- [[system_66]]
 Flag:
 - [[flag_10510]]
 Fn:

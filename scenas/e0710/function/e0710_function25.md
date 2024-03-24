@@ -1,5 +1,7 @@
 ---
 tags:
+  - NewScene
+  - FlagSet
 ---
 Sound:
 - [[sound_166]]

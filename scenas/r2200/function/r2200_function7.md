@@ -1,10 +1,11 @@
 ---
 tags:
+  - FlagSet
 ---
 Flag:
-- [[flag_12058]]
-- [[flag_12066]]
 - [[flag_12101]]
+- [[flag_12066]]
+- [[flag_12058]]
 Sound:
 - [[sound_43]]
 - [[sound_39]]

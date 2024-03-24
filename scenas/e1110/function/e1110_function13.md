@@ -1,5 +1,7 @@
 ---
 tags:
+  - NewScene
+  - FlagSet
 ---
 Flag:
 - [[flag_9697]]
@@ -8,5 +10,5 @@ Name:
 Sound:
 - [[sound_39]]
 Fn:
-- [[e1110_function15]]
 - [[e1110_function14]]
+- [[e1110_function15]]

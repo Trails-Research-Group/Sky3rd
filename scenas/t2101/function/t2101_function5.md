@@ -1,5 +1,7 @@
 ---
 tags:
+  - NewScene
+  - FlagSet
 ---
 Name:
 - [[name_11]]

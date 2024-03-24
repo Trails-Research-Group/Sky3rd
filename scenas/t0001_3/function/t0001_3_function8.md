@@ -1,5 +1,6 @@
 ---
 tags:
+  - Call
 ---
 Fn:
 - [[t0001_3_function10]]

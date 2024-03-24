@@ -1,5 +1,7 @@
 ---
 tags:
+  - Call
+  - FlagSet
 ---
 Global:
 - [[global_3]]

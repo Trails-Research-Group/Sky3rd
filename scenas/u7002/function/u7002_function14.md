@@ -1,5 +1,7 @@
 ---
 tags:
+  - Call
+  - NewScene
   - Party
 ---
 Fn:
@@ -9,16 +11,16 @@ Fn:
 System:
 - [[system_4]]
 Flag:
-- [[flag_11042]]
-- [[flag_11017]]
-- [[flag_11031]]
-- [[flag_11019]]
 - [[flag_11011]]
-- [[flag_11041]]
-- [[flag_11012]]
+- [[flag_11017]]
 - [[flag_11030]]
+- [[flag_11019]]
+- [[flag_11012]]
+- [[flag_11031]]
+- [[flag_11041]]
+- [[flag_11042]]
 Name:
-- [[name_1]]
-- [[name_9]]
 - [[name_11]]
+- [[name_9]]
+- [[name_1]]
 - [[name_4]]

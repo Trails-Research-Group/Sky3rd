@@ -1,11 +1,13 @@
 ---
 tags:
+  - Call
+  - FlagSet
 ---
 Sound:
-- [[sound_192]]
-- [[sound_302]]
 - [[sound_100]]
 - [[sound_187]]
+- [[sound_302]]
+- [[sound_192]]
 Name:
 - [[name_8]]
 Flag:

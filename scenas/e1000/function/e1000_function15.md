@@ -1,5 +1,7 @@
 ---
 tags:
+  - NewScene
+  - FlagSet
 ---
 Global:
 - [[global_5]]

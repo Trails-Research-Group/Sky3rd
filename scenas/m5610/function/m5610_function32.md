@@ -1,10 +1,13 @@
 ---
 tags:
+  - NewScene
+  - FlagSet
+  - FlagUnset
 ---
 Flag:
+- [[flag_9477]]
 - [[flag_9478]]
 - [[flag_11096]]
-- [[flag_9477]]
 System:
 - [[system_40]]
 Sound:

@@ -1,5 +1,6 @@
 ---
 tags:
+  - NewScene
 ---
 Sound:
 - [[sound_459]]

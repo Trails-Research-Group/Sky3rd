@@ -1,5 +1,7 @@
 ---
 tags:
+  - Call
+  - FlagSet
 ---
 Flag:
 - [[flag_11392]]

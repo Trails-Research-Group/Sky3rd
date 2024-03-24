@@ -1,15 +1,17 @@
 ---
 tags:
+  - NewScene
+  - FlagSet
   - Party
 ---
 Name:
 - [[name_9]]
 System:
-- [[system_58]]
 - [[system_3]]
+- [[system_58]]
 Sound:
-- [[sound_17]]
 - [[sound_213]]
+- [[sound_17]]
 Bgm:
 - [[bgm_15]]
 Item:
@@ -17,5 +19,5 @@ Item:
 Global:
 - [[global_1]]
 Flag:
-- [[flag_12198]]
 - [[flag_9477]]
+- [[flag_12198]]

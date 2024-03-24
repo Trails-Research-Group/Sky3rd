@@ -1,14 +1,15 @@
 ---
 tags:
+  - FlagSet
   - Quest
 ---
 Name:
-- [[name_13]]
 - [[name_14]]
 - [[name_8]]
+- [[name_13]]
 Party:
-- [[party_3]]
 - [[party_2]]
+- [[party_3]]
 Sound:
 - [[sound_39]]
 Flag:

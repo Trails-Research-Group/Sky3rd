@@ -1,5 +1,6 @@
 ---
 tags:
+  - NewScene
   - Item
 ---
 Item:

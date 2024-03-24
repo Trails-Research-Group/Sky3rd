@@ -1,5 +1,8 @@
 ---
 tags:
+  - Call
+  - NewScene
+  - FlagSet
   - Quest
   - Item
 ---
@@ -10,13 +13,13 @@ System:
 Flag:
 - [[flag_9477]]
 Quest:
-- [[quest_26]]
 - [[quest_25]]
+- [[quest_26]]
 Fn:
 - [[e1000_function8]]
 Item:
-- [[item_525]]
 - [[item_486]]
+- [[item_525]]
 Sound:
 - [[sound_23]]
 - [[sound_17]]

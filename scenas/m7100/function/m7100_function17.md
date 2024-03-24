@@ -1,5 +1,6 @@
 ---
 tags:
+  - Call
 ---
 System:
 - [[system_4]]
@@ -7,10 +8,10 @@ System:
 Fn:
 - [[m7100_function7]]
 Sound:
-- [[sound_13]]
 - [[sound_12]]
+- [[sound_13]]
 Bgm:
 - [[bgm_222]]
 Shop:
-- [[shop_4]]
 - [[shop_26]]
+- [[shop_4]]

@@ -1,5 +1,6 @@
 ---
 tags:
+  - Call
   - Quest
   - Party
 ---
@@ -10,5 +11,5 @@ Party:
 Quest:
 - [[quest_30]]
 Fn:
-- [[r2201_function4]]
 - [[r2201_function3]]
+- [[r2201_function4]]

@@ -1,5 +1,7 @@
 ---
 tags:
+  - Call
+  - FlagSet
 ---
 Sound:
 - [[sound_100]]

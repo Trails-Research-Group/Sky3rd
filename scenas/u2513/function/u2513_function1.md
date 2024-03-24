@@ -1,13 +1,14 @@
 ---
 tags:
+  - FlagUnset
 ---
 Flag:
+- [[flag_11093]]
+- [[flag_11095]]
+- [[flag_11094]]
 - [[flag_11092]]
 - [[flag_11174]]
 - [[flag_11014]]
-- [[flag_11095]]
-- [[flag_11093]]
-- [[flag_11094]]
 System:
 - [[system_41]]
 Global:

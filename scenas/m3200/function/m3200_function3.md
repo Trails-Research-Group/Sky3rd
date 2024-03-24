@@ -1,13 +1,15 @@
 ---
 tags:
+  - ED6Battle
+  - FlagSet
   - Item
 ---
 Flag:
 - [[flag_11136]]
 Sound:
+- [[sound_44]]
 - [[sound_43]]
 - [[sound_17]]
-- [[sound_44]]
 Field_party:
 - [[field_party_0]]
 Battle:

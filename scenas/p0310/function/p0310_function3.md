@@ -1,11 +1,12 @@
 ---
 tags:
+  - FlagSet
   - Quest
 ---
 Name:
+- [[name_6]]
 - [[name_14]]
 - [[name_8]]
-- [[name_6]]
 Fn:
 - [[p0310_function4]]
 - [[p0310_function5]]

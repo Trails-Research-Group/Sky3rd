@@ -1,12 +1,14 @@
 ---
 tags:
+  - Call
+  - FlagSet
   - Quest
   - Party
 ---
 Name:
+- [[name_19]]
 - [[name_14]]
 - [[name_8]]
-- [[name_19]]
 Bgm:
 - [[bgm_200]]
 - [[bgm_213]]
@@ -14,11 +16,11 @@ Party:
 - [[party_0]]
 - [[party_1]]
 Sound:
-- [[sound_49]]
-- [[sound_39]]
 - [[sound_15]]
 - [[sound_153]]
 - [[sound_215]]
+- [[sound_49]]
+- [[sound_39]]
 Global:
 - [[global_4]]
 System:
@@ -29,9 +31,9 @@ Quest:
 - [[quest_61]]
 - [[quest_62]]
 Field_party:
-- [[field_party_1]]
+- [[field_party_3]]
 - [[field_party_0]]
 - [[field_party_2]]
-- [[field_party_3]]
+- [[field_party_1]]
 Fn:
 - [[u7000_function5]]

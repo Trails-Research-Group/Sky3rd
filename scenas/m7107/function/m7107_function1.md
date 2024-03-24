@@ -6,9 +6,9 @@ Look_point:
 Fn:
 - [[m7107_function19]]
 Flag:
-- [[flag_9602]]
 - [[flag_9613]]
 - [[flag_10415]]
+- [[flag_9602]]
 System:
-- [[system_1]]
 - [[system_4]]
+- [[system_1]]

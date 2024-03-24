@@ -1,13 +1,15 @@
 ---
 tags:
+  - Call
+  - NewScene
 ---
 Name:
-- [[name_13]]
+- [[name_6]]
 - [[name_14]]
 - [[name_8]]
-- [[name_6]]
+- [[name_13]]
 Sound:
-- [[sound_184]]
 - [[sound_153]]
+- [[sound_184]]
 Fn:
 - [[m7005_function28]]

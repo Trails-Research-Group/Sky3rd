@@ -6,9 +6,9 @@ tags:
   - Mira
 ---
 Name:
-- [[name_65278]]
 - [[name_14]]
 - [[name_8]]
+- [[name_65278]]
 Sound:
 - [[sound_279]]
 - [[sound_351]]
@@ -17,8 +17,8 @@ Flag:
 Magic:
 - [[magic_65535]]
 Item:
-- [[item_808]]
 - [[item_830]]
+- [[item_808]]
 Field_party:
 - [[field_party_0]]
 Bgm:

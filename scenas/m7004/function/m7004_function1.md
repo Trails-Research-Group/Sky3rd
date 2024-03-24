@@ -10,5 +10,5 @@ Fn:
 Entrance:
 - [[m7004_entrance1]]
 Flag:
-- [[flag_9884]]
 - [[flag_9885]]
+- [[flag_9884]]

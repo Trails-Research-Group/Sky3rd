@@ -1,25 +1,27 @@
 ---
 tags:
+  - Call
+  - ED6Battle
 ---
 Name:
-- [[name_80]]
 - [[name_2]]
+- [[name_80]]
 Sound:
-- [[sound_163]]
-- [[sound_164]]
-- [[sound_402]]
 - [[sound_366]]
-- [[sound_39]]
+- [[sound_164]]
 - [[sound_38]]
+- [[sound_163]]
+- [[sound_402]]
+- [[sound_39]]
 - [[sound_372]]
 Flag:
-- [[flag_12116]]
 - [[flag_12115]]
+- [[flag_12116]]
 Fn:
 - [[t4103_function20]]
-- [[t4103_function32]]
-- [[t4103_function18]]
 - [[t4103_function19]]
+- [[t4103_function18]]
+- [[t4103_function32]]
 Field_party:
 - [[field_party_0]]
 Bgm:

@@ -1,12 +1,13 @@
 ---
 tags:
+  - FlagSet
   - Item
 ---
 Fn:
 - [[t2400_function5]]
 Sound:
-- [[sound_17]]
 - [[sound_401]]
+- [[sound_17]]
 Flag:
 - [[flag_0]]
 Item:

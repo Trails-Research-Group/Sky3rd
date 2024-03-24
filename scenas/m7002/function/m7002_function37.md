@@ -1,23 +1,24 @@
 ---
 tags:
+  - Call
 ---
 System:
 - [[system_4]]
 - [[system_40]]
 Flag:
 - [[flag_9745]]
+- [[flag_9754]]
 - [[flag_9755]]
 - [[flag_9746]]
-- [[flag_9754]]
 Fn:
-- [[m7002_function12]]
-- [[m7002_function10]]
 - [[m7002_function53]]
+- [[m7002_function10]]
+- [[m7002_function12]]
 Field_party:
-- [[field_party_1]]
+- [[field_party_3]]
 - [[field_party_0]]
 - [[field_party_2]]
-- [[field_party_3]]
+- [[field_party_1]]
 Sound:
-- [[sound_184]]
 - [[sound_153]]
+- [[sound_184]]

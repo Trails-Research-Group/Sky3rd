@@ -1,11 +1,13 @@
 ---
 tags:
+  - NewScene
+  - FlagSet
 ---
 Name:
 - [[name_10]]
 Sound:
-- [[sound_309]]
 - [[sound_119]]
+- [[sound_309]]
 System:
 - [[system_28]]
 Flag:

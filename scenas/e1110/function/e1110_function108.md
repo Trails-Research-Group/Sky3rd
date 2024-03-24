@@ -1,5 +1,6 @@
 ---
 tags:
+  - NewScene
 ---
 Flag:
 - [[flag_9701]]

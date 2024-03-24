@@ -2,7 +2,7 @@
 tags:
 ---
 System:
-- [[system_66]]
 - [[system_0]]
+- [[system_66]]
 Sound:
 - [[sound_160]]

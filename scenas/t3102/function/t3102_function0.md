@@ -1,5 +1,7 @@
 ---
 tags:
+  - FlagSet
+  - FlagUnset
 ---
 System:
 - [[system_66]]

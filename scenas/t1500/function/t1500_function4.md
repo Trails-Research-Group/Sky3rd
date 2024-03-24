@@ -1,5 +1,8 @@
 ---
 tags:
+  - Call
+  - NewScene
+  - FlagSet
 ---
 Bgm:
 - [[bgm_192]]

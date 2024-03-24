@@ -1,5 +1,6 @@
 ---
 tags:
+  - FlagSet
   - Item
 ---
 Name:
@@ -11,10 +12,10 @@ Fn:
 Bgm:
 - [[bgm_210]]
 Sound:
-- [[sound_17]]
-- [[sound_213]]
 - [[sound_143]]
+- [[sound_213]]
 - [[sound_39]]
+- [[sound_17]]
 Item:
 - [[item_403]]
 Flag:

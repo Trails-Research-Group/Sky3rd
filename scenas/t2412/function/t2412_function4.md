@@ -1,5 +1,7 @@
 ---
 tags:
+  - NewScene
+  - FlagSet
 ---
 Fn:
 - [[t2412_function6]]
@@ -7,7 +9,7 @@ Fn:
 Name:
 - [[name_77]]
 Sound:
-- [[sound_7]]
 - [[sound_401]]
+- [[sound_7]]
 Flag:
 - [[flag_9476]]

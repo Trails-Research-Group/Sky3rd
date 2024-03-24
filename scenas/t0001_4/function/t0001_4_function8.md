@@ -1,5 +1,6 @@
 ---
 tags:
+  - FlagSet
   - Party
   - Item
 ---

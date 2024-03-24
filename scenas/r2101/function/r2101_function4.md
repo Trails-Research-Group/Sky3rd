@@ -1,5 +1,6 @@
 ---
 tags:
+  - FlagSet
 ---
 System:
 - [[system_58]]

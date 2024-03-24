@@ -1,13 +1,16 @@
 ---
 tags:
+  - NewScene
+  - FlagSet
+  - FlagUnset
   - Quest
   - Mira
 ---
 Sound:
 - [[sound_2]]
 - [[sound_157]]
-- [[sound_17]]
 - [[sound_184]]
+- [[sound_17]]
 - [[sound_156]]
 Bgm:
 - [[bgm_61]]

@@ -1,7 +1,8 @@
 ---
 tags:
+  - FlagSet
   - Mira
 ---
 Flag:
-- [[flag_9656]]
 - [[flag_13]]
+- [[flag_9656]]

@@ -1,10 +1,13 @@
 ---
 tags:
+  - Call
+  - NewScene
+  - FlagSet
   - Quest
 ---
 Quest:
-- [[quest_26]]
 - [[quest_27]]
+- [[quest_26]]
 Bgm:
 - [[bgm_25]]
 System:

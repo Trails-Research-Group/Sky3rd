@@ -1,5 +1,6 @@
 ---
 tags:
+  - Call
 ---
 Fn:
 - [[m5611_function9]]

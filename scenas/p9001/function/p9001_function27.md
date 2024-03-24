@@ -1,5 +1,9 @@
 ---
 tags:
+  - Call
+  - NewScene
+  - FlagSet
+  - FlagUnset
   - Quest
   - Party
   - Item
@@ -21,12 +25,12 @@ Party:
 Quest:
 - [[quest_12]]
 Flag:
-- [[flag_12183]]
 - [[flag_12179]]
-- [[flag_12176]]
-- [[flag_12177]]
-- [[flag_12180]]
-- [[flag_9476]]
-- [[flag_12181]]
-- [[flag_12178]]
 - [[flag_12182]]
+- [[flag_12180]]
+- [[flag_12177]]
+- [[flag_12181]]
+- [[flag_12183]]
+- [[flag_9476]]
+- [[flag_12178]]
+- [[flag_12176]]

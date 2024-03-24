@@ -1,8 +1,9 @@
 ---
 tags:
+  - FlagSet
 ---
 Flag:
-- [[flag_9660]]
 - [[flag_5]]
+- [[flag_9660]]
 Name:
 - [[name_8]]

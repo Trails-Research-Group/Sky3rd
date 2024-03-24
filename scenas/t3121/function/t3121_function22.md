@@ -7,8 +7,8 @@ Bgm:
 - [[bgm_87]]
 Sound:
 - [[sound_142]]
-- [[sound_10]]
 - [[sound_49]]
+- [[sound_10]]
 Fn:
 - [[t3121_function24]]
 - [[t3121_function23]]

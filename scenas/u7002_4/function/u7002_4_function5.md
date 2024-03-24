@@ -1,13 +1,14 @@
 ---
 tags:
+  - FlagSet
 ---
 Flag:
-- [[flag_4]]
 - [[flag_10240]]
-- [[flag_9999]]
+- [[flag_4]]
 - [[flag_9784]]
+- [[flag_9999]]
 Field_party:
 - [[field_party_0]]
 Name:
-- [[name_13]]
 - [[name_8]]
+- [[name_13]]

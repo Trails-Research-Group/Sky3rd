@@ -1,11 +1,13 @@
 ---
 tags:
+  - FlagSet
+  - FlagUnset
 ---
 System:
-- [[system_66]]
 - [[system_1]]
+- [[system_66]]
 Flag:
-- [[flag_1]]
 - [[flag_9476]]
+- [[flag_1]]
 Fn:
 - [[r2101_function5]]

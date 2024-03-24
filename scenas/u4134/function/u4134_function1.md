@@ -5,6 +5,6 @@ tags:
 Quest:
 - [[quest_19]]
 Flag:
-- [[flag_10124]]
 - [[flag_10123]]
 - [[flag_10125]]
+- [[flag_10124]]

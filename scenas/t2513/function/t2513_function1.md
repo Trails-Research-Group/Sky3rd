@@ -6,5 +6,5 @@ Trigger:
 System:
 - [[system_66]]
 Flag:
-- [[flag_12140]]
 - [[flag_12139]]
+- [[flag_12140]]

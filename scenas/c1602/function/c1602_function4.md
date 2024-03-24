@@ -1,5 +1,6 @@
 ---
 tags:
+  - FlagSet
   - Party
 ---
 Name:
@@ -12,5 +13,5 @@ Flag:
 - [[flag_12181]]
 Trigger:
 - [[c1602_trigger2]]
-- [[c1602_trigger0]]
 - [[c1602_trigger1]]
+- [[c1602_trigger0]]

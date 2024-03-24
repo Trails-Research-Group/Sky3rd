@@ -1,12 +1,14 @@
 ---
 tags:
+  - ED6Battle
+  - FlagSet
   - Item
 ---
 Field_party:
-- [[field_party_1]]
+- [[field_party_3]]
 - [[field_party_0]]
 - [[field_party_2]]
-- [[field_party_3]]
+- [[field_party_1]]
 System:
 - [[system_3]]
 - [[system_40]]
@@ -21,5 +23,5 @@ Flag:
 - [[flag_11288]]
 - [[flag_11284]]
 Item:
-- [[item_827]]
 - [[item_387]]
+- [[item_827]]

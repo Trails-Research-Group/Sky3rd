@@ -1,17 +1,20 @@
 ---
 tags:
+  - Call
+  - NewScene
+  - FlagSet
   - Quest
   - Item
   - Mira
 ---
 Field_party:
-- [[field_party_1]]
+- [[field_party_3]]
 - [[field_party_0]]
 - [[field_party_2]]
-- [[field_party_3]]
+- [[field_party_1]]
 Sound:
-- [[sound_17]]
 - [[sound_121]]
+- [[sound_17]]
 Fn:
 - [[sub000_function25]]
 - [[e0810_function4]]

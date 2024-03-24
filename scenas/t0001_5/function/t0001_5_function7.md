@@ -1,5 +1,7 @@
 ---
 tags:
+  - NewScene
+  - FlagSet
   - Party
 ---
 Name:
@@ -7,5 +9,5 @@ Name:
 Party:
 - [[party_0]]
 Flag:
-- [[flag_9477]]
 - [[flag_9476]]
+- [[flag_9477]]

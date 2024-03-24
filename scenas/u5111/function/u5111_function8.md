@@ -1,11 +1,12 @@
 ---
 tags:
+  - FlagSet
 ---
 System:
 - [[system_4]]
 Flag:
-- [[flag_10504]]
 - [[flag_0]]
+- [[flag_10504]]
 Field_party:
 - [[field_party_0]]
 Sound:

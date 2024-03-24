@@ -1,5 +1,7 @@
 ---
 tags:
+  - Call
+  - FlagSet
   - Quest
 ---
 Flag:
@@ -11,8 +13,8 @@ Name:
 - [[name_14]]
 - [[name_8]]
 Party:
-- [[party_3]]
 - [[party_2]]
+- [[party_3]]
 - [[party_1]]
 Sound:
 - [[sound_116]]

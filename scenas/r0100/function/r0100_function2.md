@@ -1,5 +1,7 @@
 ---
 tags:
+  - NewScene
+  - FlagSet
   - Party
 ---
 Name:

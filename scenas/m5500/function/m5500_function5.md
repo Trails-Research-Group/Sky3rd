@@ -1,5 +1,7 @@
 ---
 tags:
+  - FlagSet
+  - FlagUnset
 ---
 Flag:
 - [[flag_10594]]
@@ -7,7 +9,7 @@ Flag:
 System:
 - [[system_40]]
 Sound:
-- [[sound_251]]
 - [[sound_250]]
+- [[sound_251]]
 Field_party:
 - [[field_party_0]]

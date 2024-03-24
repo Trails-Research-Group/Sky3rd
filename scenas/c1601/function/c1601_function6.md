@@ -1,5 +1,7 @@
 ---
 tags:
+  - Call
+  - ED6Battle
 ---
 Name:
 - [[name_17]]

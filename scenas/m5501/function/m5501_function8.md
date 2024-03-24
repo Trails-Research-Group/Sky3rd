@@ -1,5 +1,7 @@
 ---
 tags:
+  - FlagSet
+  - FlagUnset
 ---
 Flag:
 - [[flag_10599]]

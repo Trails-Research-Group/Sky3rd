@@ -1,11 +1,12 @@
 ---
 tags:
+  - NewScene
 ---
 Name:
 - [[name_0]]
 Sound:
-- [[sound_7]]
 - [[sound_213]]
 - [[sound_39]]
+- [[sound_7]]
 Bgm:
 - [[bgm_152]]

@@ -1,14 +1,15 @@
 ---
 tags:
+  - FlagSet
   - Quest
 ---
 Flag:
-- [[flag_9742]]
 - [[flag_9741]]
+- [[flag_9742]]
 Name:
+- [[name_6]]
 - [[name_14]]
 - [[name_8]]
-- [[name_6]]
 Sound:
 - [[sound_38]]
 Quest:

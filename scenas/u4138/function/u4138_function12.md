@@ -1,13 +1,14 @@
 ---
 tags:
+  - FlagSet
   - Quest
   - Item
 ---
 Name:
-- [[name_13]]
+- [[name_6]]
 - [[name_14]]
 - [[name_8]]
-- [[name_6]]
+- [[name_13]]
 Sound:
 - [[sound_17]]
 Item:

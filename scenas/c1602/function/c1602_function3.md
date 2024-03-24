@@ -1,5 +1,7 @@
 ---
 tags:
+  - Call
+  - ED6Battle
 ---
 Field_party:
 - [[field_party_0]]

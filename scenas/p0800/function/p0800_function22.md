@@ -2,5 +2,5 @@
 tags:
 ---
 Sound:
-- [[sound_725]]
 - [[sound_506]]
+- [[sound_725]]

@@ -1,11 +1,13 @@
 ---
 tags:
+  - ED6Battle
+  - FlagSet
 ---
 Name:
 - [[name_8]]
 Sound:
-- [[sound_216]]
 - [[sound_213]]
+- [[sound_216]]
 - [[sound_39]]
 Battle:
 - [[battle_120]]

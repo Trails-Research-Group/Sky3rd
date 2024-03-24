@@ -1,5 +1,6 @@
 ---
 tags:
+  - Call
   - Party
 ---
 Flag:

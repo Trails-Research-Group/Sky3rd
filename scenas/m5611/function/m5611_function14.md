@@ -1,5 +1,6 @@
 ---
 tags:
+  - FlagSet
   - Quest
   - Item
 ---
@@ -8,13 +9,13 @@ Flag:
 Name:
 - [[name_8]]
 Party:
-- [[party_3]]
 - [[party_2]]
+- [[party_3]]
 - [[party_1]]
 Sound:
-- [[sound_17]]
-- [[sound_156]]
 - [[sound_157]]
+- [[sound_156]]
+- [[sound_17]]
 Item:
 - [[item_816]]
 Quest:

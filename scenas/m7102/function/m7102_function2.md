@@ -1,5 +1,6 @@
 ---
 tags:
+  - Call
 ---
 Fn:
 - [[m7102_function3]]

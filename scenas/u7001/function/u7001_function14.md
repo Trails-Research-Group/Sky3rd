@@ -1,10 +1,11 @@
 ---
 tags:
+  - Call
   - Party
 ---
 Flag:
-- [[flag_11047]]
 - [[flag_11051]]
+- [[flag_11047]]
 - [[flag_11040]]
 Fn:
 - [[sub000_function2]]

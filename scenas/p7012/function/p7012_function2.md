@@ -1,12 +1,14 @@
 ---
 tags:
+  - NewScene
+  - FlagSet
 ---
 Name:
 - [[name_14]]
 - [[name_8]]
 Party:
-- [[party_3]]
 - [[party_2]]
+- [[party_3]]
 - [[party_0]]
 - [[party_1]]
 Fn:

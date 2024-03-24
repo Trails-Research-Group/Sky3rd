@@ -1,5 +1,7 @@
 ---
 tags:
+  - Call
+  - NewScene
 ---
 Flag:
 - [[flag_9733]]

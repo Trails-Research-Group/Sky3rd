@@ -1,5 +1,8 @@
 ---
 tags:
+  - Call
+  - NewScene
+  - FlagSet
   - Quest
   - Party
   - Item
@@ -8,9 +11,9 @@ tags:
 Fn:
 - [[sub000_function25]]
 Flag:
-- [[flag_11047]]
 - [[flag_9477]]
 - [[flag_0]]
+- [[flag_11047]]
 Quest:
 - [[quest_36]]
 Item:

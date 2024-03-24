@@ -1,17 +1,18 @@
 ---
 tags:
+  - FlagSet
 ---
 Name:
-- [[name_80]]
 - [[name_2]]
+- [[name_80]]
 Sound:
 - [[sound_143]]
 - [[sound_49]]
 - [[sound_164]]
 Fn:
-- [[t4101_function31]]
-- [[t4101_function2]]
 - [[t4101_function12]]
+- [[t4101_function2]]
+- [[t4101_function31]]
 Trigger:
 - [[t4101_trigger10]]
 - [[t4101_trigger11]]

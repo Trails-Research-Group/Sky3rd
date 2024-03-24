@@ -1,5 +1,6 @@
 ---
 tags:
+  - NewScene
 ---
 Name:
 - [[name_77]]

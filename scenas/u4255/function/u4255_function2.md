@@ -1,5 +1,6 @@
 ---
 tags:
+  - FlagSet
   - Item
 ---
 Flag:
@@ -8,5 +9,5 @@ Sound:
 - [[sound_43]]
 - [[sound_17]]
 Item:
-- [[item_525]]
 - [[item_480]]
+- [[item_525]]

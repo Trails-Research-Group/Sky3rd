@@ -1,9 +1,10 @@
 ---
 tags:
+  - FlagSet
 ---
 Flag:
-- [[flag_12110]]
 - [[flag_0]]
+- [[flag_12110]]
 Name:
 - [[name_2]]
 Party:

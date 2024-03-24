@@ -2,8 +2,8 @@
 tags:
 ---
 Name:
-- [[name_80]]
 - [[name_2]]
+- [[name_80]]
 Sound:
-- [[sound_7]]
 - [[sound_6]]
+- [[sound_7]]

@@ -1,5 +1,7 @@
 ---
 tags:
+  - Call
+  - ED6Battle
   - Party
 ---
 Name:

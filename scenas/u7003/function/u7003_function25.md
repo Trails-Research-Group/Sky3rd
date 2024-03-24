@@ -1,5 +1,6 @@
 ---
 tags:
+  - FlagSet
   - Item
 ---
 Flag:
@@ -9,10 +10,10 @@ Sound:
 System:
 - [[system_40]]
 Item:
-- [[item_222]]
-- [[item_224]]
-- [[item_221]]
-- [[item_223]]
 - [[item_220]]
+- [[item_222]]
+- [[item_223]]
+- [[item_221]]
+- [[item_224]]
 Field_party:
 - [[field_party_0]]

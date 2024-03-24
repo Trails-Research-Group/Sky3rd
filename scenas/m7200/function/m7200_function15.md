@@ -1,5 +1,6 @@
 ---
 tags:
+  - Call
 ---
 Flag:
 - [[flag_10753]]
@@ -8,13 +9,13 @@ Fn:
 - [[m7200_function25]]
 - [[m7200_function7]]
 System:
-- [[system_40]]
 - [[system_49]]
+- [[system_40]]
 Field_party:
-- [[field_party_1]]
+- [[field_party_3]]
 - [[field_party_0]]
 - [[field_party_2]]
-- [[field_party_3]]
+- [[field_party_1]]
 Sound:
-- [[sound_184]]
 - [[sound_153]]
+- [[sound_184]]

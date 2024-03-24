@@ -1,5 +1,6 @@
 ---
 tags:
+  - Call
 ---
 Sound:
 - [[sound_269]]
@@ -9,10 +10,10 @@ Fn:
 Name:
 - [[name_65278]]
 Item:
-- [[item_385]]
-- [[item_386]]
 - [[item_387]]
-- [[item_390]]
-- [[item_388]]
-- [[item_389]]
 - [[item_384]]
+- [[item_386]]
+- [[item_388]]
+- [[item_385]]
+- [[item_390]]
+- [[item_389]]

@@ -1,9 +1,10 @@
 ---
 tags:
+  - FlagUnset
 ---
 Flag:
-- [[flag_9477]]
 - [[flag_9476]]
+- [[flag_9477]]
 System:
 - [[system_1]]
 Fn:

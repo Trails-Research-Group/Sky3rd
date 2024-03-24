@@ -1,11 +1,12 @@
 ---
 tags:
+  - FlagSet
 ---
 Flag:
 - [[flag_9731]]
 Field_party:
-- [[field_party_1]]
 - [[field_party_0]]
+- [[field_party_1]]
 Sound:
 - [[sound_39]]
 Name:

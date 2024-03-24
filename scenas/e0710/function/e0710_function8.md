@@ -1,6 +1,7 @@
 ---
 tags:
+  - FlagSet
 ---
 Flag:
-- [[flag_9644]]
 - [[flag_1]]
+- [[flag_9644]]

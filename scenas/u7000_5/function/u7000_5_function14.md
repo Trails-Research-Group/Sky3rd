@@ -1,5 +1,6 @@
 ---
 tags:
+  - FlagSet
 ---
 System:
 - [[system_4]]
@@ -9,6 +10,6 @@ Flag:
 Name:
 - [[name_8]]
 Party:
-- [[party_3]]
 - [[party_2]]
+- [[party_3]]
 - [[party_1]]

@@ -3,8 +3,8 @@ tags:
   - Party
 ---
 Name:
-- [[name_80]]
 - [[name_2]]
+- [[name_80]]
 System:
 - [[system_40]]
 Fn:

@@ -6,5 +6,5 @@ System:
 Bgm:
 - [[bgm_183]]
 Fn:
-- [[r1204_function14]]
 - [[r1204_function13]]
+- [[r1204_function14]]

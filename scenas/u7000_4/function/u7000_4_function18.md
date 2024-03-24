@@ -1,25 +1,27 @@
 ---
 tags:
+  - Call
+  - FlagSet
   - Quest
   - Item
 ---
 Name:
-- [[name_1]]
-- [[name_14]]
-- [[name_8]]
 - [[name_19]]
+- [[name_14]]
+- [[name_1]]
+- [[name_8]]
 Party:
-- [[party_3]]
 - [[party_2]]
+- [[party_3]]
 - [[party_0]]
 Sound:
-- [[sound_163]]
-- [[sound_164]]
-- [[sound_39]]
 - [[sound_326]]
+- [[sound_213]]
 - [[sound_153]]
 - [[sound_312]]
-- [[sound_213]]
+- [[sound_164]]
+- [[sound_163]]
+- [[sound_39]]
 Flag:
 - [[flag_9671]]
 - [[flag_10004]]
@@ -28,10 +30,10 @@ Quest:
 Item:
 - [[item_854]]
 Fn:
-- [[u7000_function5]]
 - [[sub000_function11]]
+- [[u7000_function5]]
 Field_party:
-- [[field_party_1]]
+- [[field_party_3]]
 - [[field_party_0]]
 - [[field_party_2]]
-- [[field_party_3]]
+- [[field_party_1]]

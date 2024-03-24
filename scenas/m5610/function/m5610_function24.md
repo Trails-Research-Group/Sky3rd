@@ -1,5 +1,6 @@
 ---
 tags:
+  - Call
 ---
 Fn:
 - [[m5610_function28]]
