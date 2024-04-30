@@ -6,8 +6,8 @@
 | [[ED6_DT07\|ED6_DT07.dir]]         | character sprites, in and out of combat                      |
 | [[sprites/ED6_DT09\|ED6_DT09.dir]] | non-human enemy sprites, from Trails in the Sky              |
 | [[sprites/ED6_DT20\|ED6_DT20.dir]] | menu UI elements                                             |
-| ED6_DT23.dir                       |                                                              |
-| ED6_DT24.dir                       |                                                              |
+| [[sprites/ED6_DT23\|ED6_DT23.dir]] | maps                                                         |
+| [[sprites/ED6_DT24\|ED6_DT24.dir]] | Event CGs and miscellaneous menu sprites                     |
 | ED6_DT25.dir                       |                                                              |
 | ED6_DT26.dir                       |                                                              |
 | ED6_DT27.dir                       |                                                              |
