@@ -93,3 +93,10 @@
 | `h_stch35._ch` | Scherazard Harvey in menu, with name (big)                     |
 | `h_stch36._ch` | Ries Argent in menu, with name (big)                           |
 | `h_waku1._ch`  | save menu icons (big)                                          |
+
+| ._ds file      | content                   |
+| -------------- | ------------------------- |
+| `c_wipe00._ds` | some kind of filter mask  |
+| `c_wipe01._ds` | some kind of filter mask  |
+| `c_wipe02._ds` | some kind of filter mask  |
+| `encback._ds`  | blue texture, maybe water |
